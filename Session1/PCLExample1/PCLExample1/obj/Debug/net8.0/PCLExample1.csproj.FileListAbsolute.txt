@@ -1,0 +1,14 @@
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\bin\Debug\net8.0\PCLExample1.exe
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\bin\Debug\net8.0\PCLExample1.deps.json
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\bin\Debug\net8.0\PCLExample1.runtimeconfig.json
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\bin\Debug\net8.0\PCLExample1.dll
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\bin\Debug\net8.0\PCLExample1.pdb
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.AssemblyInfoInputs.cache
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.AssemblyInfo.cs
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.csproj.CoreCompileInputs.cache
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.dll
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\refint\PCLExample1.dll
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.pdb
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\PCLExample1.genruntimeconfig.cache
+E:\Semester7\PCL\Session1\PCLExample1\PCLExample1\obj\Debug\net8.0\ref\PCLExample1.dll

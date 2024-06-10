@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Include="Products\Drink\Drink.fs" />
+      <Compile Include="Products\Food\Food.fs" />
+      <Compile Include="Products\Fruit\Fruit.fs" />
+      <Compile Include="Products\Product.fs" />
+      <Compile Include="Order\OrderLine.fs" />
+      <Compile Include="Order\Order.fs" />
+      <Compile Include="Order\OrderService.fs" />
+      <Compile Include="Customer\Customer.fs" />
+      <Compile Include="Payment\Payment.fs" />
+    </ItemGroup>
+
+</Project>

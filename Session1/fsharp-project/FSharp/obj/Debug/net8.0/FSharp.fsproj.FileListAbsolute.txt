@@ -1,0 +1,4 @@
+E:\Semester7\PCL\Session1\fsharp-project\FSharp\obj\Debug\net8.0\FSharp.fsproj.AssemblyReference.cache
+E:\Semester7\PCL\Session1\fsharp-project\FSharp\obj\Debug\net8.0\FSharp.AssemblyInfoInputs.cache
+E:\Semester7\PCL\Session1\fsharp-project\FSharp\obj\Debug\net8.0\FSharp.AssemblyInfo.fs
+E:\Semester7\PCL\Session1\fsharp-project\FSharp\obj\Debug\net8.0\FSharp.fsproj.CoreCompileInputs.cache

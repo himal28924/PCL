@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAO+zmS9vQ0uzcQomfHubiMDHv+/GO0y+j7uWl52dnn0uDGR8CWAmJWechtwD4/YOrYaHcUhuLKSv2+ZBepUkg==",
+  "success": true,
+  "projectFilePath": "E:\\Semester7\\PCL\\Session1\\fsharp-project\\FSharp\\FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himal\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}

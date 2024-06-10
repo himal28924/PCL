@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Domain\Domain.fsproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="Test.fs" />
+      <None Include="RunScript.fsx" />
+    </ItemGroup>
+
+</Project>
